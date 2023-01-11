@@ -1,0 +1,25 @@
+.checkout-container {
+    margin: 5vh 8vw;
+    min-height:75vh;
+}
+
+.checkout-content{
+    width:85vw;
+    margin-right:2%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.images-table{
+    width:10vw;
+    overflow:hidden
+}
+
+.images-table img{
+    width:100%
+}
+
+@media (max-width:480px){
+    .checkout-contents{
+        flex-wrap:wrap
+    }
+}

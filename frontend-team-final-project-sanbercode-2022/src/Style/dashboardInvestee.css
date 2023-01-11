@@ -1,0 +1,38 @@
+/* form project */
+.investee-container{
+    width: 90%;
+}
+
+.form-project{
+    width:100%
+}
+
+/* all project */
+.image-table-container{
+display:flex;
+flex-wrap:wrap;
+overflow:hidden
+}
+
+.image-table-container img{
+    height:25vh;
+    object-fit:cover
+}
+
+.image-table{
+    width:30%;
+    margin:1%
+}
+
+.image-table img{
+    width:100%
+}
+
+/* Profile */
+.image-profile-container{
+    width:30vw
+}
+
+.image-profile-container img{
+    width:100%;
+}

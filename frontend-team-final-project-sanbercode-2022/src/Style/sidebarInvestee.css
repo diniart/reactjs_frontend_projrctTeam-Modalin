@@ -1,0 +1,30 @@
+.sidebar-investee{
+    width: 25vw;
+    min-height:100vh;
+    padding-left:3%;
+    /* position:fixed; */
+}
+
+.sidebar-menu{
+    margin-top:5vh;
+}
+
+.sidebar-menu h4{
+    margin: 8% auto 8% auto
+}
+
+.button-shape{
+    width:90%;
+    color:white;
+    background-color:#176149;
+    margin:auto auto 3% 12%;
+}
+
+.button-shape:hover{
+    color: #176149;
+    font-weight:bold;
+}
+
+.background-content{
+    width: 25vw;
+}

@@ -1,0 +1,9 @@
+.footer {
+	min-height: 10vh;
+	bottom: 0;
+	width: 100%;
+}
+
+.footer-about {
+	position: fixed;
+}
